@@ -32,7 +32,7 @@ namespace SRTM.Sources.USGS
         /// <summary>
         /// The source of the data.
         /// </summary>
-        public const string SOURCE = @"https://dds.cr.usgs.gov/srtm/version2_1/SRTM3/";
+        public const string SOURCE = @"https://firmware.ardupilot.org/SRTM/";
 
         /// <summary>
         /// The continents to try.
