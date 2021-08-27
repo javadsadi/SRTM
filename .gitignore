@@ -1,0 +1,9 @@
+*.pfx
+*.suo
+*.user
+Debug/
+Release/
+obj/
+.vs/
+*.dll
+*.pdb
